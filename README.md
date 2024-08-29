@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing basketball and chess right now.
 - 🌱 I’m currently learning new web development technologies and frameworks.
 -👨‍💻 All of my projects are available at https://github.com/PeterGituma?tab=repositories
-- 🌱 You can find my portfolio here: https://my-portfolio-lj7ijrrxp-petergituma.vercel.app/
+- 🌱 You can find my portfolio here: https://petergitumamynewportfolio.vercel.app/
 - 💞️ I’m looking to collaborate on innovative web development projects.
 - 📫 How to reach me: peter.l.gituma@gmail.com or https://www.linkedin.com/in/peterlgituma/
 
